@@ -302,7 +302,7 @@ namespace Altairis.SqlDbDoc
                 dt.Columns.Add("foreignKey: tableId", typeof(string));
                 dt.Columns.Add("foreignKey: column", typeof(string));
                 dt.Columns.Add("default: refId", typeof(string));
-                dt.Columns.Add("default: value"typeof(string));
+                dt.Columns.Add("default: value",typeof(string));
 
                 
 
